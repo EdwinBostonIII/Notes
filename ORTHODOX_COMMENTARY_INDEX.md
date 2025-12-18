@@ -68,27 +68,62 @@ This repository contains comprehensive Orthodox theological commentary on the Bo
 - Comprehensive synthesis: Extensive Isaac/Christ typology (10+ parallels), liturgical traditions
 - **FULL SYNTHESIS**
 
-#### [Genesis Chapter 37: Joseph's Dreams and Betrayal](Genesis_Chapter_37_Orthodox_Commentary.md)
+#### [Genesis Chapter 6: Corruption and the Flood Announced](Genesis_Chapter_6_Orthodox_Commentary.md) ✨
+**Wickedness and the Divine Response**
+- Human corruption and divine grief (6:1-7)
+- Noah finds favor and walks with God (6:8-10)
+- The ark command and covenant promise (6:11-22)
+- Comprehensive synthesis: Noah as type of Christ, Ark as Church/Cross, Divine providence
+- **FULL SYNTHESIS**
+
+#### [Genesis Chapter 9: The Noahic Covenant](Genesis_Chapter_9_Orthodox_Commentary.md) ✨
+**The Universal Covenant After the Flood**
+- Divine blessing and cultural mandate renewed (9:1-7)
+- The rainbow covenant with all flesh (9:8-17)
+- Noah's drunkenness and Ham's sin (9:18-27)
+- Comprehensive synthesis: Noah as New Adam, Blood principle, Universal covenant
+- **FULL SYNTHESIS**
+
+#### [Genesis Chapter 11: Babel and Abraham's Line](Genesis_Chapter_11_Orthodox_Commentary.md) ✨
+**The Tower, Confusion, and Transition**
+- Universal language and tower project (11:1-4)
+- Confusion of languages and scattering (11:5-9)
+- Genealogy from Shem to Abram (11:10-32)
+- Comprehensive synthesis: Babel as anti-Pentecost, Tower vs. Cross, Divine condescension
+- **FULL SYNTHESIS**
+
+#### [Genesis Chapter 15: The Abrahamic Covenant Ceremony](Genesis_Chapter_15_Orthodox_Commentary.md) ✨
+**Faith Counted as Righteousness**
+- Divine reassurance and promise of offspring (15:1-6)
+- "He believed the LORD, and it was counted to him as righteousness" (15:6)
+- The covenant ceremony with divided animals (15:7-21)
+- Comprehensive synthesis: Justification by faith, Covenant typology, Unilateral divine commitment
+- **FULL SYNTHESIS**
+
+#### [Genesis Chapter 37: Joseph's Dreams and Betrayal](Genesis_Chapter_37_Orthodox_Commentary.md) ✨
 **Beginning of the Joseph Narrative**
 - Joseph's favored status and the coat of many colors (37:1-4)
 - The dreams of sheaves and stars (37:5-11)
 - Betrayal by brothers and sold into slavery (37:12-36)
-- Joseph as type of Christ the Rejected One
+- Comprehensive synthesis: Joseph as type of Christ, Beloved son rejected, Providence in suffering
+- **FULL SYNTHESIS**
 
-#### [Genesis Chapter 45: Joseph Reveals Himself](Genesis_Chapter_45_Orthodox_Commentary.md)
+#### [Genesis Chapter 45: Joseph Reveals Himself](Genesis_Chapter_45_Orthodox_Commentary.md) ✨
 **The Great Revelation and Reconciliation**
 - "I am Joseph!" - the dramatic revelation (45:1-15)
 - Providence theology: "God sent me before you" (45:5-8)
 - Invitation to Egypt and reunion with Jacob (45:16-28)
-- Type of Christ revealing Himself to His own
+- Comprehensive synthesis: Recognition scene typology, Divine providence, Forgiveness and reconciliation
+- **FULL SYNTHESIS**
 
-#### [Genesis Chapter 50: Joseph's Final Words](Genesis_Chapter_50_Orthodox_Commentary.md)
+#### [Genesis Chapter 50: Joseph's Final Words](Genesis_Chapter_50_Orthodox_Commentary.md) ✨
 **Providence, Forgiveness, and Death**
 - Jacob's death and burial (50:1-14)
 - Brothers' fear and Joseph's forgiveness (50:15-21)
 - "You meant evil, but God meant it for good" (50:20)
 - Joseph's death and the promise to return (50:22-26)
-- Coffin in Egypt pointing to Exodus
+- Comprehensive synthesis: Providence theology crystallized, Coffin in Egypt, Hope in resurrection
+- **FULL SYNTHESIS**
 
 ---
 
