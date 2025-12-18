@@ -32,7 +32,7 @@ Cleaned the OSB_FINAL_NEW_CROSSREFS.txt file by correcting OCR/typo errors and r
 | Rom.17.24 | Rom.7.24 | Extra digit in chapter (Romans only has 16 chapters) |
 | Mal.13.5 | Mal.3.5 | Extra digit in chapter (Malachi only has 4 chapters) |
 | Dan.3.92 | Dan.3.9 | Extra digit in verse |
-| Matt.3.141 | Matt.3.41 | Transposed digits (Matthew 3 has only 17 verses, likely Matt.3.14 or Matt.3.1) |
+| Matt.3.141 | Matt.3.14 | Extra digit (Matthew 3 has only 17 verses) |
 
 ### Theological Validation
 
