@@ -11,8 +11,13 @@ import sys
 import json
 
 # Import the individual converters
-from convert_text_to_json import parse_hebrew_ot
-from convert_pdf_to_json import convert_pdf_to_json
+try:
+    from convert_text_to_json import parse_hebrew_ot
+    from convert_pdf_to_json import convert_pdf_to_json
+except ImportError as e:
+    print(f"Error importing conversion modules: {e}")
+    print("Please ensure all conversion scripts are in the same directory.")
+    sys.exit(1)
 
 
 def main():

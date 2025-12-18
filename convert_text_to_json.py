@@ -32,8 +32,8 @@ def parse_hebrew_ot(input_file, output_file):
                 current_text = []
             continue
         
-        # Check if line matches verse reference pattern (e.g., "Genesis 1:1")
-        match = re.match(r'^([A-Za-z]+)\s+(\d+):(\d+)$', line)
+        # Check if line matches verse reference pattern (e.g., "Genesis 1:1" or "1 Chronicles 1:1")
+        match = re.match(r'^(.+?)\s+(\d+):(\d+)$', line)
         if match:
             # Save previous verse if exists
             if current_verse:

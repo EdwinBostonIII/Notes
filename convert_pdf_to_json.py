@@ -9,7 +9,13 @@ import json
 import sys
 import os
 
-import PyPDF2
+try:
+    import PyPDF2
+except ImportError:
+    print("Error: PyPDF2 is not installed.")
+    print("Please install it by running: pip install PyPDF2")
+    print("Or install all dependencies: pip install -r requirements.txt")
+    sys.exit(1)
 
 
 def convert_pdf_to_json(pdf_path, output_path):
