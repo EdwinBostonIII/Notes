@@ -618,6 +618,30 @@ CROSS-REFERENCES:
                                עֵדֶן וְהָאָדָם הָרִאשׁוֹן
 ═══════════════════════════════════════════════════════════════════════════════
 
+CHAPTER OVERVIEW:
+Genesis 2 provides a more detailed account of humanity's creation, focusing on
+the relationship between God and humanity, and humanity's placement in Eden.
+While Chapter 1 presents the cosmic scope of creation, Chapter 2 zooms in on
+the sixth day, revealing the intimacy of God forming Adam from dust, breathing
+life into him, creating woman as his suitable helper, and establishing marriage.
+This chapter introduces key theological themes: the Garden of Eden as sanctuary,
+the tree of life and the tree of knowledge, the prohibition that tests obedience,
+and the one-flesh union of marriage.
+
+KEY THEMES:
+  • The formation of Adam from dust (עָפָר, afar) - humanity's humble origin
+  • The breath of life (נִשְׁמַת חַיִּים, nishmat chayyim) - divine animation
+  • Eden as sanctuary-garden - a place of divine presence
+  • The prohibition against eating from the tree of knowledge
+  • The creation of woman from man's side - unity and complementarity
+  • Marriage as creation ordinance - one flesh union (בָּשָׂר אֶחָד)
+
+MAJOR SECTIONS:
+  2:1-3   - The Seventh Day and Sabbath rest
+  2:4-7   - The formation of Adam and the breath of life
+  2:8-17  - The Garden of Eden and the prohibition
+  2:18-25 - The creation of woman and the institution of marriage
+
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 2:1-3] — THE SEVENTH DAY: DIVINE REST AND THE HALLOWING OF TIME
 ───────────────────────────────────────────────────────────────────────────────
@@ -894,6 +918,36 @@ CROSS-REFERENCES:
                          פרק ג — CHAPTER 3: THE FALL
                               הַנְּפִילָה — הַחֵטְא הַקַּדְמוֹן
 ═══════════════════════════════════════════════════════════════════════════════
+
+CHAPTER OVERVIEW:
+Genesis 3 narrates the catastrophic Fall of humanity through the temptation by
+the serpent, the eating of the forbidden fruit, and the devastating consequences
+that follow. This chapter introduces sin into God's "very good" creation and
+establishes the theological framework for understanding humanity's broken
+condition and need for redemption. The chapter contains the protoevangelium
+(3:15), the first gospel promise that the seed of the woman will crush the
+serpent's head—pointing forward to Christ's victory over Satan.
+
+KEY THEMES:
+  • The subtle serpent (הַנָּחָשׁ, hanachash) - Satan's deception
+  • The distortion of God's word - "Did God actually say...?"
+  • The desire for autonomy - "You will be like God"
+  • Shame and hiding - the immediate consequence of sin
+  • The Protoevangelium (Gen 3:15) - the promise of the Seed who will crush Satan
+  • Curses upon creation - thorns, pain, toil, death
+  • Expulsion from Eden - the loss of paradise
+
+MAJOR SECTIONS:
+  3:1-7   - The temptation, fall, and immediate shame
+  3:8-13  - Hiding from God and the interrogation
+  3:14-19 - The curses upon serpent, woman, man, and ground
+  3:20-24 - Naming of Eve, garments of skin, and expulsion from Eden
+
+THEOLOGICAL SIGNIFICANCE:
+This chapter is foundational for the doctrine of original sin and the need for
+redemption. The parallels between Adam and Christ (Rom 5:12-21; 1 Cor 15:21-22,
+45-49) establish the typological pattern: where the first Adam failed through
+disobedience, the Last Adam succeeds through obedience unto death.
 
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 3:1] — THE SUBTLE SERPENT: THE FIRST QUESTION AND THE DISTORTION OF GOD'S WORD
@@ -3725,6 +3779,46 @@ CROSS-REFERENCES:
                      עֲקֵדַת יִצְחָק — THE SUPREME TYPE OF CALVARY
 ═══════════════════════════════════════════════════════════════════════════════
 
+CHAPTER OVERVIEW:
+Genesis 22 presents the climactic test of Abraham's faith: God commands him to
+offer Isaac, the son of promise, as a burnt offering on Mount Moriah. This
+narrative stands as one of Scripture's most profound types of Christ's sacrifice,
+with Abraham prefiguring the Father who gives His only Son, and Isaac prefiguring
+the obedient Son who carries the wood to his own sacrifice. The chapter resolves
+with God's provision of a substitute ram and the renewal of the Abrahamic covenant,
+establishing the principle that God Himself will provide (YHWH Yireh).
+
+KEY THEMES:
+  • Testing of faith (נִסָּה, nissah) - God proves Abraham's devotion
+  • "Your son, your only son" (בִּנְךָ אֶת־יְחִידְךָ) - echoes John 3:16
+  • The three-day journey - prefiguring Christ's resurrection
+  • Isaac carrying the wood - Christ carrying the cross
+  • Mount Moriah - later site of Solomon's Temple and Calvary
+  • Substitutionary atonement - the ram caught in the thicket
+  • "YHWH Yireh" - The LORD will provide
+  • Covenant renewal - "in your offspring shall all nations be blessed"
+
+MAJOR SECTIONS:
+  22:1-2   - God's command to sacrifice Isaac
+  22:3-8   - The journey to Moriah and Isaac's question
+  22:9-14  - The binding, the Angel's intervention, and the ram
+  22:15-19 - The covenant renewal and blessing
+  22:20-24 - Genealogical note (Rebekah's lineage)
+
+CHRISTOLOGICAL TYPOLOGY:
+  Abraham : God the Father    │  Isaac : Christ the Son
+  Only beloved son            │  Only begotten Son (John 3:16)
+  Three-day journey           │  Three days until resurrection
+  Isaac carries wood          │  Christ carries cross (John 19:17)
+  Mount Moriah                │  Golgotha (same location tradition)
+  Son bound on altar          │  Son nailed to cross
+  Ram substituted             │  Christ as substitute (propitiation)
+  "God will provide"          │  God provides the Lamb (John 1:29)
+
+The Akedah stands as the supreme Old Testament type of the cross, revealing
+that what Abraham was spared from doing, God Himself would accomplish—offering
+His own Son as the sacrifice that Isaac's ram could only foreshadow.
+
 ═══════════════════════════════════════════════════════════════════════════════
 [Genesis 22:1-2] — TAKE YOUR SON, YOUR ONLY SON: THE TEST OF ULTIMATE FAITH
 ═══════════════════════════════════════════════════════════════════════════════
@@ -6179,3 +6273,329 @@ CROSS-REFERENCES:
 
 ────────────────────────────────────────────────────────────────────────
 
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                                 APPENDICES
+═══════════════════════════════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                       APPENDIX A: THEMATIC INDEX
+═══════════════════════════════════════════════════════════════════════════════
+
+CREATION THEMES:
+  • Creatio ex nihilo - Genesis 1:1; John 1:3; Hebrews 11:3
+  • The Image of God (Imago Dei) - Genesis 1:26-27; 2 Corinthians 4:4; 
+    Colossians 1:15; James 3:9
+  • Dominion Mandate - Genesis 1:28; Psalm 8:6-8; Hebrews 2:6-9
+  • Sabbath Rest - Genesis 2:1-3; Exodus 20:8-11; Hebrews 4:1-11
+  • Marriage as Creation Ordinance - Genesis 2:24; Matthew 19:4-6; 
+    Ephesians 5:31-32
+
+COVENANT THEMES:
+  • Protoevangelium (First Gospel) - Genesis 3:15; Romans 16:20; 
+    Revelation 12:9; 20:2
+  • Noahic Covenant - Genesis 9:8-17; 2 Peter 3:5-7
+  • Abrahamic Covenant - Genesis 12:1-3; 15:1-21; 17:1-27; Galatians 3:8, 16
+  • The Seed Promise - Genesis 3:15; 12:7; 22:18; Galatians 3:16; 
+    Revelation 12:17
+
+CHRISTOLOGICAL TYPES:
+  • Adam as Type of Christ - Romans 5:12-21; 1 Corinthians 15:21-22, 45-49
+  • Abel's Sacrifice - Genesis 4:4; Hebrews 11:4; 12:24
+  • Noah and the Ark - Genesis 6-9; 1 Peter 3:20-21
+  • Melchizedek - Genesis 14:18-20; Psalm 110:4; Hebrews 5-7
+  • Isaac's Binding (Akedah) - Genesis 22; John 1:29; 3:16; Hebrews 11:17-19
+  • Joseph as Type of Christ - Genesis 37-50; betrayed, exalted, saves his people
+
+FALL AND REDEMPTION:
+  • The Fall - Genesis 3:1-7; Romans 5:12; 1 Corinthians 15:21-22
+  • Original Sin - Genesis 3:6; Romans 5:12-14; 1 Corinthians 15:22
+  • Curse and Consequences - Genesis 3:14-19; Romans 8:20-22
+  • Garments of Skin - Genesis 3:21; Hebrews 9:22 (foreshadowing sacrifice)
+  • Expulsion from Eden - Genesis 3:23-24; Revelation 22:1-5 (restoration)
+
+DIVINE NAMES AND ATTRIBUTES:
+  • Elohim (אֱלֹהִים) - God as Creator - Genesis 1:1ff
+  • YHWH (יְהוָה) - The LORD, covenant name - Genesis 2:4ff
+  • El Shaddai (אֵל שַׁדַּי) - God Almighty - Genesis 17:1; 28:3; 35:11; 48:3
+  • El Elyon (אֵל עֶלְיוֹן) - God Most High - Genesis 14:18-22
+  • YHWH Yireh (יְהוָה יִרְאֶה) - The LORD Will Provide - Genesis 22:14
+  • El Roi (אֵל רֹאִי) - God Who Sees Me - Genesis 16:13
+
+SOVEREIGNTY AND PROVIDENCE:
+  • Divine Providence - Genesis 45:5-8; 50:20; Romans 8:28
+  • God's Sovereignty in Election - Genesis 25:23; Romans 9:10-13
+  • Faith Tested - Genesis 22:1; James 1:2-4; 1 Peter 1:6-7
+  • God Overruling Evil for Good - Genesis 37-50; Acts 2:23; Romans 8:28
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                    APPENDIX B: GENESIS TIMELINE
+═══════════════════════════════════════════════════════════════════════════════
+
+PRIMEVAL HISTORY (Chapters 1-11):
+  Creation Week        - Genesis 1-2
+  The Fall             - Genesis 3
+  Cain and Abel        - Genesis 4
+  Seth's Line          - Genesis 4:25-5:32
+  The Flood            - Genesis 6-9 (Traditional: 1656 years after creation)
+  Tower of Babel       - Genesis 11:1-9
+
+PATRIARCHAL PERIOD (Chapters 12-50):
+  Abraham's Call       - Genesis 12 (Traditional: c. 2166 BC)
+  Covenant with Abram  - Genesis 15 (c. 2091 BC)
+  Circumcision         - Genesis 17 (c. 2067 BC, Abram age 99)
+  Sodom & Gomorrah     - Genesis 18-19
+  Isaac's Birth        - Genesis 21 (c. 2066 BC, Abraham age 100)
+  The Akedah           - Genesis 22 (c. 2030 BC, Isaac as young man)
+  Sarah's Death        - Genesis 23 (c. 2029 BC, age 127)
+  Isaac Marries Rebekah - Genesis 24 (c. 2026 BC, Isaac age 40)
+  Abraham's Death      - Genesis 25:7-8 (c. 1991 BC, age 175)
+  Jacob & Esau Born    - Genesis 25:24-26 (c. 2006 BC, Isaac age 60)
+  Jacob Gets Blessing  - Genesis 27 (c. 1929 BC)
+  Jacob's Ladder       - Genesis 28 (c. 1929 BC)
+  Jacob Marries        - Genesis 29 (c. 1922 BC, Jacob age 84)
+  Joseph's Birth       - Genesis 30:22-24 (c. 1915 BC)
+  Jacob Wrestles God   - Genesis 32 (c. 1909 BC)
+  Joseph Sold          - Genesis 37 (c. 1898 BC, Joseph age 17)
+  Joseph in Prison     - Genesis 39-40 (c. 1898-1886 BC)
+  Joseph Exalted       - Genesis 41 (c. 1886 BC, Joseph age 30)
+  Jacob to Egypt       - Genesis 46 (c. 1876 BC, Jacob age 130)
+  Jacob's Death        - Genesis 49-50 (c. 1859 BC, age 147)
+  Joseph's Death       - Genesis 50:26 (c. 1806 BC, age 110)
+
+GENEALOGICAL SPANS (Traditional Chronology):
+  Creation to Flood:   1656 years (Gen 5)
+  Flood to Abraham:    352 years (Gen 11)
+  Abraham to Egypt:    215 years
+  Egypt to Exodus:     430 years (Exodus 12:40-41)
+  TOTAL Creation to Exodus: 2653 years
+
+
+═══════════════════════════════════════════════════════════════════════════════
+              APPENDIX C: MAJOR MESSIANIC PROPHECIES IN GENESIS
+═══════════════════════════════════════════════════════════════════════════════
+
+1. THE PROTOEVANGELIUM (Genesis 3:15)
+   Prophecy: The seed of the woman will crush the serpent's head
+   Fulfillment: Christ defeats Satan through the cross and resurrection
+   References: Romans 16:20; Colossians 2:15; Hebrews 2:14; Revelation 12:9; 20:2
+
+2. NOAH'S PROPHECY (Genesis 9:26-27)
+   Prophecy: Blessing on Shem; Japheth to dwell in Shem's tents
+   Fulfillment: Messiah from Semitic line; Gentiles included in covenant
+   References: Luke 3:36; Ephesians 2:11-22
+
+3. THE ABRAHAMIC PROMISE (Genesis 12:3; 22:18)
+   Prophecy: "In you all families of the earth shall be blessed"
+   Fulfillment: Christ, the seed of Abraham, brings blessing to all nations
+   References: Galatians 3:8, 16; Acts 3:25
+
+4. MELCHIZEDEK (Genesis 14:18-20)
+   Prophecy/Type: Priest-King without genealogy, greater than Abraham
+   Fulfillment: Christ as eternal high priest after the order of Melchizedek
+   References: Psalm 110:4; Hebrews 5:6, 10; 6:20; 7:1-28
+
+5. THE COVENANT SACRIFICE (Genesis 15:7-21)
+   Prophecy/Type: God alone passes through the pieces, guaranteeing covenant
+   Fulfillment: Christ alone fulfills covenant requirements
+   References: Hebrews 9:15-22; 10:10
+
+6. ISAAC'S BIRTH (Genesis 17:19; 21:1-7)
+   Type: Miraculous son of promise
+   Fulfillment: Christ, the ultimate Son of Promise
+   References: Luke 1:35; Galatians 4:22-31
+
+7. THE AKEDAH - BINDING OF ISAAC (Genesis 22:1-18)
+   Type: Father offering only beloved son as sacrifice
+   Fulfillment: God the Father offering His only begotten Son
+   References: John 3:16; Romans 8:32; Hebrews 11:17-19
+
+8. THE BLESSING OF JUDAH (Genesis 49:8-10)
+   Prophecy: "The scepter shall not depart from Judah... until Shiloh comes"
+   Fulfillment: Christ, the Lion of Judah, the Shiloh to whom obedience belongs
+   References: Matthew 1:2-3; Luke 3:33; Hebrews 7:14; Revelation 5:5
+
+9. JOSEPH AS TYPE (Genesis 37-50)
+   Type: Beloved son, rejected by brothers, exalted, saves his people
+   Fulfillment: Christ rejected by His own, exalted to God's right hand, saves
+   References: Acts 7:9-15; Philippians 2:6-11; Hebrews 2:10-11
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                 APPENDIX D: PATRISTIC INTERPRETATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+THE CHURCH FATHERS ON GENESIS:
+
+IRENAEUS OF LYONS (c. 130-202):
+  • On Genesis 1:26 ("Let us make man"): Identified the plural as the Father
+    addressing the Son and Spirit, establishing Trinitarian reading of creation
+  • On the Recapitulation: Christ recapitulates Adam's test, succeeding where
+    Adam failed (Against Heresies 3.21-23)
+
+ORIGEN OF ALEXANDRIA (c. 185-254):
+  • Developed allegorical interpretation of Genesis alongside literal reading
+  • Saw Paradise as both historical and spiritual reality
+  • Interpreted the days of creation as containing deeper mysteries
+
+ATHANASIUS OF ALEXANDRIA (c. 296-373):
+  • On Genesis 1:26: The plural address is to the Son through whom all things
+    were made (John 1:3)
+  • On the Image: Humanity created in the image of the Image (Christ)
+  • On Incarnation: The Word restores the defaced image through His assumption
+    of human nature (On the Incarnation)
+
+BASIL THE GREAT (c. 330-379):
+  • Hexaemeron (Nine Homilies on the Six Days of Creation): Literal-historical
+    interpretation emphasizing God's wisdom in ordering creation
+  • On Genesis 1:2: "The Spirit was preparing the nature of water to produce
+    living beings"
+
+GREGORY OF NYSSA (c. 335-395):
+  • On the Making of Man: Extended treatment of the Imago Dei
+  • Saw human nature as originally created to grow into divine likeness
+  • Paradise as both geographical and spiritual state
+
+JOHN CHRYSOSTOM (c. 347-407):
+  • Homilies on Genesis: Emphasized literal-historical reading while drawing
+    moral applications
+  • Stressed God's condescension in creation accounts
+  • Defended Eve while maintaining Adam's headship
+
+AUGUSTINE OF HIPPO (354-430):
+  • The Literal Meaning of Genesis: Most extensive patristic treatment
+  • Developed doctrine of original sin from Genesis 3
+  • Taught simultaneous creation with days as logical/theological framework
+  • City of God: Used Genesis to establish theology of two cities
+  • On the Good of Marriage: Genesis 2:24 as foundation for marriage theology
+
+CYRIL OF ALEXANDRIA (c. 376-444):
+  • Glaphyra on the Pentateuch: Christological interpretation of Genesis
+  • Saw Genesis narratives as types prefiguring Christ
+  • The Akedah as supreme type of the Father's offering of the Son
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                     APPENDIX E: BIBLIOGRAPHY
+═══════════════════════════════════════════════════════════════════════════════
+
+ANCIENT AND MEDIEVAL SOURCES:
+
+Primary Texts:
+  • The Septuagint (LXX), Greek Old Testament, 3rd-2nd century BC
+  • Masoretic Text, authoritative Hebrew text, 7th-10th century AD
+  • Targums (Aramaic paraphrases), various dates
+
+Patristic Works:
+  • Irenaeus, Against Heresies (c. 180)
+  • Athanasius, On the Incarnation (c. 318)
+  • Basil the Great, Hexaemeron (c. 370)
+  • Gregory of Nyssa, On the Making of Man (c. 379)
+  • John Chrysostom, Homilies on Genesis (c. 386)
+  • Augustine, The Literal Meaning of Genesis (401-415)
+  • Augustine, City of God (413-426)
+  • Cyril of Alexandria, Glaphyra on the Pentateuch (c. 425)
+
+MODERN COMMENTARIES:
+
+Reformed Tradition:
+  • Calvin, John. Commentary on Genesis (1554)
+  • Keil, C.F. & Delitzsch, F. Commentary on the Old Testament: Genesis (1866)
+  • Leupold, H.C. Exposition of Genesis (1942)
+  • Wenham, Gordon J. Genesis 1-15; Genesis 16-50. Word Biblical Commentary (1987, 1994)
+  • Waltke, Bruce K. Genesis: A Commentary (2001)
+
+Catholic Tradition:
+  • Ratzinger, Joseph (Pope Benedict XVI). In the Beginning: A Catholic
+    Understanding of the Story of Creation and the Fall (1995)
+
+Orthodox Tradition:
+  • Seraphim Rose, Fr. Genesis, Creation and Early Man (2000)
+  • Damick, Andrew Stephen. An Introduction to God: Encountering the Divine in
+    Genesis (2021)
+
+Jewish Commentaries:
+  • Rashi (Rabbi Solomon ben Isaac), Commentary on Genesis (11th century)
+  • Ramban (Nachmanides), Commentary on the Torah (13th century)
+  • Sarna, Nahum M. Genesis. JPS Torah Commentary (1989)
+
+THEOLOGICAL AND CRITICAL STUDIES:
+  • Barth, Karl. Church Dogmatics III/1: The Doctrine of Creation (1945)
+  • Von Rad, Gerhard. Genesis: A Commentary (1972)
+  • Sailhamer, John H. Genesis Unbound (1996)
+  • Walton, John H. The Lost World of Genesis One (2009)
+  • Middleton, J. Richard. The Liberating Image: The Imago Dei in Genesis 1 (2005)
+  • Beale, G.K. The Temple and the Church's Mission (2004)
+  • Alexander, T. Desmond. From Paradise to the Promised Land (2002)
+
+SPECIALIZED STUDIES:
+  • Levenson, Jon D. The Death and Resurrection of the Beloved Son: The
+    Transformation of Child Sacrifice in Judaism and Christianity (1993)
+  • Moberly, R.W.L. The Theology of the Book of Genesis (2009)
+  • Hamilton, Victor P. The Book of Genesis, Chapters 1-17; 18-50. NICOT (1990, 1995)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                        APPENDIX F: READING GUIDE
+═══════════════════════════════════════════════════════════════════════════════
+
+APPROACHES TO READING THIS COMMENTARY:
+
+1. SEQUENTIAL READING (Comprehensive Study)
+   Begin with Chapter 1 and proceed through the commentary verse by verse.
+   This approach allows you to trace the development of theological themes
+   and see how earlier passages inform later ones.
+
+2. THEMATIC READING (Topic-Focused Study)
+   Use the Thematic Index (Appendix A) to study specific theological themes
+   across Genesis. For example, trace the "Seed Promise" from Genesis 3:15
+   through the patriarchal narratives to see how the messianic hope develops.
+
+3. CHRISTOLOGICAL READING (Typological Study)
+   Focus on the major Christological types in Genesis:
+   • Adam (Romans 5:12-21; 1 Corinthians 15:45-49)
+   • Abel (Hebrews 11:4; 12:24)
+   • Melchizedek (Hebrews 7)
+   • Isaac (Genesis 22; Hebrews 11:17-19)
+   • Joseph (Genesis 37-50)
+   
+   This reading highlights how Genesis points forward to Christ.
+
+4. CANONICAL READING (Biblical-Theological Study)
+   Use the cross-references to trace how the New Testament interprets and
+   fulfills Genesis. Pay special attention to:
+   • John's Gospel (especially the Prologue)
+   • Romans 5 and 8
+   • 1 Corinthians 15
+   • Galatians 3-4
+   • Hebrews 11
+
+5. DEVOTIONAL READING (Spiritual Formation)
+   Read selected passages meditatively, focusing on one verse or section
+   per day. Consider the EXEGESIS sections for understanding, then reflect
+   on personal application. Key passages for devotional reading:
+   • Genesis 1:1-3 (Creation and New Creation in Christ)
+   • Genesis 3:15 (Gospel Promise)
+   • Genesis 15:6 (Faith Reckoned as Righteousness)
+   • Genesis 22 (Supreme Faith and God's Provision)
+   • Genesis 50:20 (Providence and God's Sovereignty)
+
+STUDY QUESTIONS FOR GROUPS:
+  1. How does the creation account in Genesis 1-2 shape our understanding
+     of human dignity and purpose?
+  2. What does Genesis 3 teach about the nature and origin of sin?
+  3. How do the covenants in Genesis (with Noah, Abraham, etc.) relate to
+     the New Covenant in Christ?
+  4. In what ways does the Joseph narrative (Genesis 37-50) prefigure Christ?
+  5. How should Genesis's teaching on marriage and family inform Christian
+     ethics today?
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                          END OF GENESIS COMMENTARY
+                            Soli Deo Gloria
+
+═══════════════════════════════════════════════════════════════════════════════
