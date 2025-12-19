@@ -5,6 +5,8 @@
                      BOOK 1 OF THE ORTHODOX CANON
 ═══════════════════════════════════════════════════════════════════════════════
 
+                           INTRODUCTION AND GUIDE
+
 Genesis stands as the foundation of all Scripture, establishing the theological
 grammar by which the entirety of divine revelation must be understood. Here we
 encounter the God who creates ex nihilo by His Word, who forms humanity in His
@@ -14,11 +16,167 @@ read Genesis Christologically: the Word spoken at creation is the Logos incarnat
 the Tree of Life prefigures the Cross; Adam is the type whose antitype is Christ;
 and the promises to Abraham find their yes and amen in the Seed who is Christ.
 
+STRUCTURE OF THIS WORK:
+This commentary provides verse-by-verse exegesis of selected key passages from
+Genesis, with each entry containing:
+  • Original Hebrew text with transliteration and translation
+  • Detailed EXEGESIS explaining historical, linguistic, and theological context
+  • CROSS-REFERENCES connecting to New Testament fulfillments and related passages
+  • Patristic insights from the Church Fathers where applicable
+
+NAVIGATIONAL GUIDE:
+  • Major chapters are marked with double-line borders (═══)
+  • Individual verse sections are marked with single-line borders (───)
+  • Hebrew terms are provided with transliteration in parentheses
+  • Greek New Testament references use original text where theologically significant
+  
+THEOLOGICAL THEMES:
+The commentary traces several major theological threads throughout Genesis:
+  → Creation and Covenant Theology
+  → Typological Christology (Adam-Christ, Isaac-Christ, Joseph-Christ)
+  → The Seed Promise (from Gen 3:15 through the patriarchal narratives)
+  → The Imago Dei and Human Dignity
+  → Divine Providence and Sovereignty
+  → Blessing and Curse in Redemptive History
+
 ═══════════════════════════════════════════════════════════════════════════════
+                            TABLE OF CONTENTS
+═══════════════════════════════════════════════════════════════════════════════
+
+PART I: PRIMEVAL HISTORY (Chapters 1-11)
+  Chapter 1:  The Creation of Heaven and Earth in Six Days
+  Chapter 2:  Eden and the First Couple (פרק ב)
+  Chapter 3:  The Fall (פרק ג)
+  Chapter 4:  Cain and Abel (פרק ד)
+  Chapter 5:  The Generations of Adam (פרק ה)
+  Chapter 6:  Corruption and the Flood Announced (פרק ו)
+  Chapter 7:  The Flood (פרק ז)
+  Chapter 8:  The Flood Recedes (פרק ח)
+  Chapter 9:  The Noahic Covenant (פרק ט)
+  Chapter 10: The Table of Nations (פרק י)
+  Chapter 11: Babel and the Line to Abraham (פרק יא)
+
+PART II: THE PATRIARCHAL NARRATIVES - ABRAHAM (Chapters 12-25)
+  Chapter 12: The Abrahamic Call (פרק יב)
+  Chapter 13: Abram and Lot Separate (פרק יג)
+  Chapter 14: War of the Kings (פרק יד)
+  Chapter 15: The Abrahamic Covenant (פרק טו)
+  Chapter 16: Hagar and Ishmael (פרק טז)
+  Chapter 17: The Covenant of Circumcision (פרק יז)
+  Chapter 18: The Three Visitors and Sodom's Intercession (פרק יח)
+  Chapter 19: The Destruction of Sodom and Gomorrah (פרק יט)
+  Chapter 20: Abraham and Abimelech (פרק כ)
+  Chapter 21: The Birth of Isaac and Hagar Sent Away (פרק כא)
+  Chapter 22: The Binding of Isaac - The Akedah (פרק כב)
+  Chapter 23: The Death of Sarah and the Cave of Machpelah (פרק כג)
+  Chapter 24: A Bride for Isaac - Rebekah (פרק כד)
+  Chapter 25: The Death of Abraham and the Birth of the Twins (פרק כה)
+
+PART III: ISAAC AND JACOB (Chapters 26-36)
+  Chapter 26: Isaac in Gerar and the Covenant Renewed (פרק כו)
+  Chapter 27: Jacob Obtains the Blessing by Deception (פרק כז)
+  Chapter 28: Jacob's Ladder and the Bethel Theophany (פרק כח)
+  Chapter 29: Jacob, Leah, and Rachel at the Well (פרק כט)
+  Chapter 30: The Birth of Jacob's Sons and the Flocks (פרק ל)
+  Chapter 31: Jacob Flees from Laban to Canaan (פרק לא)
+  Chapter 32: Jacob Wrestles with God at Peniel (פרק לב)
+  Chapter 33: Jacob and Esau Reconciled (פרק לג)
+  Chapter 34: Dinah and the Shechem Incident (פרק לד)
+  Chapter 35: Jacob Returns to Bethel — Rachel's Death (פרק לה)
+  Chapter 36: The Descendants of Esau - Edom (פרק לו)
+
+PART IV: THE JOSEPH NARRATIVE (Chapters 37-50)
+  Chapter 37: Joseph's Dreams and Betrayal (פרק לז)
+  Chapter 38: Judah and Tamar (פרק לח)
+  Chapter 39: Joseph in Potiphar's House (פרק לט)
+  Chapter 40: Joseph Interprets the Prisoners' Dreams (פרק מ)
+  Chapter 41: Joseph Interprets Pharaoh's Dreams (פרק מא)
+  Chapter 42: The First Journey to Egypt (פרק מב)
+  Chapter 43: The Second Journey to Egypt (פרק מג)
+  Chapter 44: Judah's Intercession — The Substitutionary Plea (פרק מד)
+  Chapter 45: Joseph Reveals Himself to His Brothers (פרק מה)
+  Chapter 46: Jacob Goes to Egypt (פרק מו)
+  Chapter 47: Jacob Settles in Goshen (פרק מז)
+  Chapter 48: Jacob Blesses Ephraim and Manasseh (פרק מח)
+  Chapter 49: Jacob's Blessing of the Twelve Tribes (פרק מט)
+  Chapter 50: Jacob's Death and Joseph's Final Years (פרק נ)
+
+═══════════════════════════════════════════════════════════════════════════════
+                          KEY THEOLOGICAL TERMS
+═══════════════════════════════════════════════════════════════════════════════
+
+HEBREW TERMS:
+  • בְּרֵאשִׁית (bereishit) - "In the beginning" - opens Genesis and establishes
+    creation's temporal origin
+  • בָּרָא (bara) - "created" - verb used exclusively of divine creative action
+  • אֱלֹהִים (Elohim) - "God" - plural form with singular verb, hinting at Trinity
+  • צֶלֶם (tzelem) - "image" - humanity's unique relationship to God
+  • דְּמוּת (demut) - "likeness" - similarity to God in capacity and calling
+  • בְּרִית (berit) - "covenant" - God's binding commitment to His people
+  • זֶרַע (zera) - "seed" - the promise line from Adam through Christ
+  • תּוֹלְדוֹת (toledot) - "generations" - structural marker throughout Genesis
+
+GREEK TERMS (LXX and NT):
+  • Λόγος (Logos) - "Word" - the divine agent of creation (John 1:1)
+  • εἰκών (eikon) - "image" - Christ as the true image of God
+  • διαθήκη (diatheke) - "covenant" - God's testament
+  • σπέρμα (sperma) - "seed" - the promised offspring
+
+THEOLOGICAL CONCEPTS:
+  • Creatio ex nihilo - Creation from nothing by divine word alone
+  • Imago Dei - The image of God in humanity
+  • Protoevangelium - The "first gospel" (Gen 3:15)
+  • Typology - Old Testament persons/events prefiguring Christ
+  • Theosis - Participation in divine nature (Eastern theology)
+  • Federal Headship - Adam and Christ as covenant representatives
+
+═══════════════════════════════════════════════════════════════════════════════
+                              ABBREVIATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+LXX - Septuagint (Greek Old Testament)
+MT - Masoretic Text (Hebrew Old Testament)
+NT - New Testament
+OT - Old Testament
+cf. - compare (Latin: confer)
+lit. - literally
+v./vv. - verse/verses
+ch./chs. - chapter/chapters
+
+═══════════════════════════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════════════════════════
+                         PART I: PRIMEVAL HISTORY
                               CHAPTER 1
                THE CREATION OF HEAVEN AND EARTH IN SIX DAYS
 ═══════════════════════════════════════════════════════════════════════════════
 
+CHAPTER OVERVIEW:
+Genesis 1 presents the magnificent account of creation in six days, culminating
+in the Sabbath rest. This chapter establishes foundational theological truths:
+(1) God's absolute sovereignty as Creator, (2) creation's goodness and order,
+(3) humanity's unique status as image-bearers, (4) the rhythm of work and rest,
+and (5) the Trinitarian pattern of Father speaking, Word executing, and Spirit
+hovering. The Fathers read this chapter Christologically, seeing the eternal
+Logos as the agent through whom all things were made (John 1:3, Col 1:16).
+
+KEY THEMES:
+  • Creatio ex nihilo - Creation from nothing by divine word
+  • The goodness of creation - Seven times "God saw that it was good"
+  • Separation and distinction - Light/darkness, waters/waters, sea/land
+  • The Image of God - Humanity's unique dignity and calling
+  • Dominion mandate - Humanity as God's viceroys over creation
+  • Sabbath rest - The seventh day as pattern for worship
+
+STRUCTURE OF CHAPTER 1:
+  Days 1-3: Forming/Separating     │  Days 4-6: Filling
+  Day 1 - Light & Darkness         │  Day 4 - Sun, Moon, Stars
+  Day 2 - Sky & Waters             │  Day 5 - Birds & Fish
+  Day 3 - Land & Vegetation        │  Day 6 - Land Animals & Humanity
+                   Day 7 - Sabbath Rest (No Filling/Forming)
+
+═══════════════════════════════════════════════════════════════════════════════
+                     SECTION 1.1: THE PRIMORDIAL CREATION
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 1:1] — IN THE BEGINNING: THE PRIMORDIAL ACT OF CREATION
 ───────────────────────────────────────────────────────────────────────────────
@@ -72,9 +230,11 @@ CROSS-REFERENCES:
   → Deuteronomy 32:11
     "Like an eagle that stirs up its nest, that flutters (יְרַחֵף, yerachef) over its young, spreading out its wings, catching them, bearing them on its pinions." The only other use of the verb רָחַף in Scripture depicts maternal protection and nurture. The Spirit's hovering is not passive observation but active, caring preparation—brooding over creation to bring forth life as a mother eagle tends her eaglets.
 
-  → Job 33:4
+   → Job 33:4
     "The Spirit of God has made me, and the breath of the Almighty gives me life." Elihu's confession connects the creation Spirit to individual human existence. The same רוּחַ that hovered over waters in Genesis continues to give life to every human being—each breath is the Creator Spirit's ongoing gift.
 
+═══════════════════════════════════════════════════════════════════════════════
+                  SECTION 1.2: DAY ONE — LIGHT AND DARKNESS
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 1:3] — LET THERE BE LIGHT: THE FIRST DIVINE FIAT
 ───────────────────────────────────────────────────────────────────────────────
@@ -131,6 +291,8 @@ CROSS-REFERENCES:
   → Psalm 74:16
     "Yours is the day, yours also the night; you have established the heavenly lights and the sun." The Psalmist worships the God who owns what He named. Day and night belong to their Creator, and their regular alternation testifies to His faithful governance of the temporal order He established.
 
+═══════════════════════════════════════════════════════════════════════════════
+                  SECTION 1.3: DAY TWO — THE FIRMAMENT
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 1:6-8] — THE FIRMAMENT: DIVIDING THE WATERS ABOVE AND BELOW
 ───────────────────────────────────────────────────────────────────────────────
@@ -159,6 +321,8 @@ CROSS-REFERENCES:
   → 2 Peter 3:5
     "The heavens existed long ago, and the earth was formed out of water and through water by the word of God." Peter appeals to Genesis 1:6-8's cosmology: the primordial waters were divided and ordered by divine speech. This same word that structured creation will one day speak its dissolution, as the elements melt and the heavens are rolled up like a scroll.
 
+═══════════════════════════════════════════════════════════════════════════════
+              SECTION 1.4: DAY THREE — DRY LAND AND VEGETATION
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 1:9-10] — DRY LAND APPEARS: THE EARTH EMERGES FROM THE WATERS
 ───────────────────────────────────────────────────────────────────────────────
@@ -215,6 +379,8 @@ CROSS-REFERENCES:
   → Galatians 3:16
     "Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ." The זֶרַע ("seed") motif introduced in Genesis 1:11 reaches its fulfillment in Christ—the Seed of Abraham, the Seed of David, the Seed of the woman who crushes the serpent's head. All botanical seed points to the one Seed in whom all promises are realized.
 
+═══════════════════════════════════════════════════════════════════════════════
+            SECTION 1.5: DAY FOUR — THE CELESTIAL LUMINARIES
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 1:14-19] — THE LUMINARIES: SUN, MOON, AND STARS FOR SIGNS AND SEASONS
 ───────────────────────────────────────────────────────────────────────────────
@@ -243,6 +409,8 @@ CROSS-REFERENCES:
   → Joel 2:30-31; Luke 21:25
     "And I will show wonders in the heavens and on the earth... The sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the LORD comes." "There will be signs in sun and moon and stars." Day Four's luminaries become eschatological actors in the drama of judgment—their disruption signals creation's climax, when the Light of the world returns to judge the living and dead.
 
+═══════════════════════════════════════════════════════════════════════════════
+              SECTION 1.6: DAY FIVE — SEA CREATURES AND BIRDS
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 1:20-23] — DAY FIVE: THE BLESSING OF LIVING SOULS IN SEA AND SKY
 ───────────────────────────────────────────────────────────────────────────────
@@ -271,6 +439,8 @@ CROSS-REFERENCES:
   → Jonah 1:17 (LXX 2:1)
     "Now the LORD had prepared a great fish to swallow up Jonah." The verb מָנָה ("appoint/prepare") recalls the Creator's sovereign command over Day Five's creatures. The "great fish" (דָּג גָּדוֹל) serves the same God who made the תַּנִּינִם הַגְּדֹלִים—sea creatures remain instruments of divine purpose, whether for judgment, salvation, or prophetic sign.
 
+═══════════════════════════════════════════════════════════════════════════════
+         SECTION 1.7: DAY SIX — LAND ANIMALS AND HUMANITY
 ───────────────────────────────────────────────────────────────────────────────
 [Genesis 1:24-25] — DAY SIX (PART I): LAND ANIMALS BROUGHT FORTH FROM THE EARTH
 ───────────────────────────────────────────────────────────────────────────────
